@@ -11,6 +11,7 @@ export default function Home() {
         <p className="text-xl text-muted-foreground mb-8">
           The Classic Number Puzzle Game - Free to Play!
         </p>
+        <meta name="google-site-verification" content="_DrTUHePq2worIqLzTIKvdjnA7yp6L1-aPdpS--IKKA" />
       </header>
 
       {/* Game Section */}

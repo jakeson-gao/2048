@@ -16,6 +16,9 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "2048 Game - Classic Number Puzzle Game | Play Free Online",
   description: "Experience the ultimate 2048 puzzle game online! Master strategic tile merging, achieve high scores, and challenge your brain. Available in multiple versions: Classic, HD, and Mobile. Perfect for puzzle enthusiasts and math lovers!",
+  verification: {
+    google: '_DrTUHePq2worIqLzTIKvdjnA7yp6L1-aPdpS--IKKA',
+  },
   keywords: [
     // Core Keywords
     "2048", "2048 Game", "Play 2048 Online", "2048 Download", "2048 Guide",
