@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+
+# Allow all bots to access game assets
+Allow: /assets/
+Allow: /images/
+Allow: /fonts/
+
+# Sitemap location
+Sitemap: https://your-domain.com/sitemap.xml
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
