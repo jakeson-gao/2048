@@ -66,9 +66,10 @@ export default function Game2048() {
               board[i][position] = board[i][j];
               board[i][j] = null;
               moved = true;
-            } else if (board[i][position] === board[i][j]) {
-              board[i][position] *= 2;
-              newScore += board[i][position]!;
+            } else if (board[i][position] !== null && board[i][position] === board[i][j]) {
+              const currentValue = board[i][position] as number;
+              board[i][position] = currentValue * 2;
+              newScore += currentValue * 2;
               board[i][j] = null;
               position++;
               moved = true;
