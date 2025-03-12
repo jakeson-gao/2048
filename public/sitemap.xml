@@ -6,65 +6,334 @@
 
   <!-- Home Page -->
   <url>
-    <loc>https://your-domain.com/</loc>
+    <loc>https://2048fun.txt1234.com/</loc>
     <lastmod>2024-03-10</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Game Versions -->
+  <!-- Main Game Versions -->
   <url>
-    <loc>https://your-domain.com/classic</loc>
+    <loc>https://2048fun.txt1234.com/play/classic</loc>
     <lastmod>2024-03-10</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/hd</loc>
+    <loc>https://2048fun.txt1234.com/play/mobile</loc>
     <lastmod>2024-03-10</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/play/pc</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/play/multiplayer</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/play/hd</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/play/lite</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Tutorial and Guide Pages -->
+  <!-- Tutorials and Guides -->
   <url>
-    <loc>https://your-domain.com/how-to-play</loc>
+    <loc>https://2048fun.txt1234.com/guides/how-to-play</loc>
     <lastmod>2024-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/strategies</loc>
+    <loc>https://2048fun.txt1234.com/guides/rules</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/guides/tutorial</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/guides/newbie</loc>
     <lastmod>2024-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Leaderboard and Achievements -->
+  <!-- Strategy Articles -->
   <url>
-    <loc>https://your-domain.com/leaderboard</loc>
+    <loc>https://2048fun.txt1234.com/strategy/high-score-tips</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/strategy/winning-strategies</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/strategy/swipe-direction-guide</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/strategy/merge-techniques</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Achievement Pages -->
+  <url>
+    <loc>https://2048fun.txt1234.com/achievements/highest-scores</loc>
     <lastmod>2024-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/achievements</loc>
+    <loc>https://2048fun.txt1234.com/achievements/complete-guide</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/achievements/extreme-challenges</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Game Features -->
+  <url>
+    <loc>https://2048fun.txt1234.com/features/background-music</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/features/themes</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/features/customization</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Game Comparisons -->
+  <url>
+    <loc>https://2048fun.txt1234.com/compare/similar-games</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/compare/2048-vs-threes</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/compare/2048-vs-1024</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Mobile Apps -->
+  <url>
+    <loc>https://2048fun.txt1234.com/mobile/android-download</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/mobile/ios-download</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/mobile/app-ratings</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/mobile/best-apps</loc>
     <lastmod>2024-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Additional Resources -->
+  <!-- Educational Content -->
   <url>
-    <loc>https://your-domain.com/download</loc>
+    <loc>https://2048fun.txt1234.com/education/brain-exercise</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/education/kids-guide</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/education/math-benefits</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Version Information -->
+  <url>
+    <loc>https://2048fun.txt1234.com/versions/official</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/versions/international</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/versions/chinese</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Updates and News -->
+  <url>
+    <loc>https://2048fun.txt1234.com/updates/latest</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/updates/changelog</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/updates/trends</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Technical Content -->
+  <url>
+    <loc>https://2048fun.txt1234.com/tech/development-guide</loc>
     <lastmod>2024-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/themes</loc>
+    <loc>https://2048fun.txt1234.com/tech/api-documentation</loc>
     <lastmod>2024-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/tech/source-code</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Community Pages -->
+  <url>
+    <loc>https://2048fun.txt1234.com/community/forum</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/community/leaderboard</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/community/tournaments</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Help and Support -->
+  <url>
+    <loc>https://2048fun.txt1234.com/help</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/faq</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/support</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Articles -->
+  <url>
+    <loc>https://2048fun.txt1234.com/articles</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Legal and Info Pages -->
+  <url>
+    <loc>https://2048fun.txt1234.com/privacy</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/terms</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://2048fun.txt1234.com/contact</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
 </urlset>
